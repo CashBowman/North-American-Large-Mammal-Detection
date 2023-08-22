@@ -1,5 +1,5 @@
 # North-American-Large-Mammal-Detection
-This code's objective is to use images of black bears and deer(Tahoe's Most Common Large Mammals) to create and object detection model using yolov5! This is an educational guide on the processes of:
+This code's objective is to use images of black bears and deer(Tahoe's Most Common Large Mammals) to create an object detection model using yolov5! This is an educational guide on the processes of:
 - Data Collection
 - Labeling Data
 - Running Data through YOLOV5\\
